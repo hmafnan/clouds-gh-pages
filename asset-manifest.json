@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clouds-gh-pages/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/clouds-gh-pages/static/js/main.114bc2f6.chunk.js",
-    "main.js.map": "/clouds-gh-pages/static/js/main.114bc2f6.chunk.js.map",
+    "main.js": "/clouds-gh-pages/static/js/main.84d96545.chunk.js",
+    "main.js.map": "/clouds-gh-pages/static/js/main.84d96545.chunk.js.map",
     "runtime-main.js": "/clouds-gh-pages/static/js/runtime-main.9fe25402.js",
     "runtime-main.js.map": "/clouds-gh-pages/static/js/runtime-main.9fe25402.js.map",
     "static/js/2.ad9e68b2.chunk.js": "/clouds-gh-pages/static/js/2.ad9e68b2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9fe25402.js",
     "static/js/2.ad9e68b2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.114bc2f6.chunk.js"
+    "static/js/main.84d96545.chunk.js"
   ]
 }
